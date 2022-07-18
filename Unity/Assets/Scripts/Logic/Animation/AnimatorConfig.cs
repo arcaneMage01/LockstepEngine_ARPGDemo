@@ -2,8 +2,6 @@ using System;
 using System.Collections.Generic;
 using Lockstep.Math;
 using UnityEngine;
-using UnityEngine.Networking.NetworkSystem;
-
 [Serializable]
 public class EventPointInfo {
     public LFloat timeStamp;
